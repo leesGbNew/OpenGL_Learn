@@ -1,3 +1,5 @@
-﻿  TestGL1.cpp
-  TestGL1.vcxproj -> E:\project\OpenGL\Examples\TestGL1\Debug\TestGL1.exe
-  TestGL1.vcxproj -> E:\project\OpenGL\Examples\TestGL1\Debug\TestGL1.pdb (Partial PDB)
+﻿  glad.c
+  TestGL1.cpp
+  LINK : 没有找到 G:\project\opengl\OpenGL_Learn\Examples\TestGL1\Debug\TestGL1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  TestGL1.vcxproj -> G:\project\opengl\OpenGL_Learn\Examples\TestGL1\Debug\TestGL1.exe
+  TestGL1.vcxproj -> G:\project\opengl\OpenGL_Learn\Examples\TestGL1\Debug\TestGL1.pdb (Partial PDB)
